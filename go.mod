@@ -4,7 +4,7 @@ module github.com/go-git/go-git/v5
 go 1.19
 
 require (
-	dario.cat/mergo v1.0.0
+	dario.cat/mergo v1.0.1
 	github.com/ProtonMail/go-crypto v1.0.0
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
 	github.com/elazarl/goproxy v0.0.0-20230808193330-2592e75ae04a
